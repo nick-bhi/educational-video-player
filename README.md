@@ -52,7 +52,6 @@ Watch a video demonstration of the application: [Loom Demo Video](https://www.lo
 ### Prerequisites
 
 - Node.js 18+ and npm/yarn
-- Backend API server running (see API Configuration below) //DELETE?
 
 ### Installation
 
