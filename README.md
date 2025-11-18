@@ -22,6 +22,24 @@ A modern web application for creating, watching, and commenting on educational v
   - URL validation for video sources
 - **Accessibility**: WCAG compliant with semantic HTML, ARIA attributes, keyboard navigation, and screen reader support
 
+## Demo
+
+Watch a video demonstration of the application: [Loom Demo Video](https://www.loom.com/share/997f518590344e779c26e260d9cf19b7)
+
+## Screenshots
+
+### Landing Page
+![Tutorly Landing Page](./screenshots/tutorly-landing-page.png)
+
+### Video List
+![Tutorly Video List](./screenshots/tutorly-video-list.png)
+
+### Video Player
+![Tutorly Video Player](./screenshots/tutorly-video-player.png)
+
+### Create Video Dialog
+![Tutorly New Video Dialog](./screenshots/tutorly-new-video-dialog.png)
+
 ## Technology Stack
 
 - **Framework**: Next.js 14 (App Router)
