@@ -167,7 +167,3 @@ The application uses:
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
 - **React Hooks** for state management
-
-## License
-
-This project is created for Scope Labs Challenge.
